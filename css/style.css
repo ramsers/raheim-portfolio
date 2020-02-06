@@ -105,7 +105,7 @@ header {
   border: 7px solid #000;
   font-weight: 700;
   color: #000;
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   top: 50%;
   line-height: 33px;
@@ -286,7 +286,7 @@ p.text {
    font-size: 45px;
    color: #fff;
 } */
-/* Unplugges Desc Style */
+/* Unplugged Desc Style */
 .unplugged-ctn {
   max-width: 100%;
   background: #000;

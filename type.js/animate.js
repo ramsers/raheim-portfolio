@@ -1,9 +1,9 @@
 // Home Page Javascript
 
 $(document).ready(function() {
-       $(".pimg1").mouseenter(function(){
-           $(".text-1").fadeTo(1500, 1);
-       }); 
+    //    $(".pimg1").mouseenter(function(){
+    //        $(".text-1").fadeTo(1500, 1);
+    //    }); 
        $(".pimg2").mouseenter(function(){
         $(".text-2").fadeTo(1500, 1);
     }); 
